@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am Yasin Kinyua
+
+![GitHub followers](https://img.shields.io/github/followers/yaska1706?label=Github%20Followers&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/young_swashluv?label=followers&style=social)
 
 <!--
 **Yaska1706/yaska1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
