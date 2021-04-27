@@ -13,13 +13,6 @@
 - ⚡ Fun fact: DC is better than marvel prove me wrong 😄
 
 
-### Connect with me:
-
-![Twitter Badge](https://img.shields.io/badge/yaska_1706?style=flat&logo=twitter&logoColor=white&color=1CA2F1)
-![LinkedIn Badge](https://img.shields.io/badge/yasin-kinyua-murithi-20407916a?style=flat&logo=linkedin&logoColor=white&color=0D76A8)
-![Instagram Badge](https://img.shields.io/badge/_yaska_1706?style=flat&logo=instagram&logoColor=white&color=C1558B)
-
-
 
 🧰 Toolbox
 
