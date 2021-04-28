@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Yasin Kinyua
-![GitHub followers](https://img.shields.io/github/followers/yaska1706?label=Github%20Followers&style=social)
+<!--![GitHub followers](https://img.shields.io/github/followers/yaska1706?label=Github%20Followers&style=social)-->
 ![Twitter Follow](https://img.shields.io/twitter/follow/young_swashluv?label=followers&style=social)
 
 ## I'm a Software Developer, Traveller and Space Fanatic 🔭!
