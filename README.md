@@ -1,10 +1,9 @@
 ### Hi there 👋, I am Yasin Kinyua
-<!--![GitHub followers](https://img.shields.io/github/followers/yaska1706?label=Github%20Followers&style=social)-->
-![Twitter Follow](https://img.shields.io/twitter/follow/young_swashluv?label=followers&style=social)
+<!--![GitHub followers](https://img.shields.io/github/followers/yaska1706?label=Github%20Followers&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/young_swashluv?label=followers&style=social)-->
+
 
 ## I'm a Software Developer, Traveller and Space Fanatic 🔭!
-
-
 
 
 - 🌱 I’m currently learning python data structures and algorithms 
@@ -30,9 +29,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 
 ---
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; My GitHub Stats 🦸
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaska1706&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Yaska1706's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaska1706&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Connect with me 📱
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/yaska_1706" width="40" height="20"/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/yasin-kinyua-murithi/" width="40" height="20"/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" href= "https://www.instagram.com/_yaska_1706/" width="40" height="20"/>
 <!--
 **Yaska1706/yaska1706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
