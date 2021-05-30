@@ -27,12 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 
----
-## &#x1f4c8; My GitHub Stats 🦸
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaska1706&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Yaska1706's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaska1706&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Connect with me 📱
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/yaska_1706" width="40" height="20"/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/yasin-kinyua-murithi/" width="40" height="20"/><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" href= "https://www.instagram.com/_yaska_1706/" width="40" height="20"/>
 <!--
