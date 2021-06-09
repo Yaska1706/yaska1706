@@ -6,7 +6,7 @@
 ## I'm a Software Developer, Traveller and Space Fanatic 🔭!
 
 
-- 🌱 I’m currently learning python data structures and algorithms 
+- 🌱 I’m currently learning new things everyday 
 - 👯 I’m looking to collaborate on different projects with Devs
 - 📫 How to reach me: yasinkinyua@gmail.com
 - ⚡ Fun fact: DC is better than marvel prove me wrong 😄
