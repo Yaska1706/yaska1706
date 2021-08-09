@@ -6,8 +6,8 @@
 ## I'm a Software Developer, Traveller and Space Fanatic 🔭!
 
 
-- 🌱 I’m currently learning new things everyday 
-- 👯 I’m looking to collaborate on different projects with Devs
+- 🌱 I’m currently learning anything anyday 😄
+- 👯 I’m looking foward to collaborate on different projects with anybody... 💬 
 - 📫 How to reach me: yasinkinyua@gmail.com
 - ⚡ Fun fact: DC is better than marvel prove me wrong 😄
  
