@@ -6,9 +6,9 @@
 ## I'm a Software Developer, Traveller and Space Fanatic 🔭!
 
 
-- 🔭 I’m currently learning and using Golang and Python. 😄
-- 👯 I’m looking foward to collaborate on different projects with anybody... just Holla💬 
-- I'm working on [Cyber-Dojo Challenges](https://github.com/yaska1706/CodingChallenges), would love some contributions
+- 🌱 I’m currently learning and using Golang and Python. 😄
+- 🔭 I'm working on [Cyber-Dojo Challenges](https://github.com/yaska1706/CodingChallenges), would love some contributions.
+- 👯 I’m looking foward to collaborate on different projects... just Holla💬 
 - 📫 How to reach me: yasinkinyua@gmail.com
 - ⚡ Fun fact: DC is better than Marvel prove me wrong 😄
  
