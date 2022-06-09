@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/young_swashluv?label=followers&style=social)-->
 
 
-## I'm a Software Developer, Traveller and Space Fanatic 🔭!
+## I'm a Software Engineer, Traveller and Space Fanatic 🔭!
 
 
 - 🌱 I’m currently learning and using Golang and Python. 😄
